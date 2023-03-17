@@ -1,4 +1,10 @@
        program-id. PROJ2023.
+      ******************************************************************
+      *    AUTHOR: CHRISTIAN VIKTOR A. NUQUI                           *
+      *    STUDENT ID: 20201160                                        *
+      *    SAMPLE COBOL MODULE FOR SOFT806 ASSIGNMENT                  *
+      *    DATE: FEB-MAR 2023                                          *
+      ******************************************************************
 
        environment division.
        configuration section.
